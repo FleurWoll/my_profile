@@ -1,5 +1,5 @@
 body {
-	background: white url(images/background_dessin.jpg) no-repeat 100% 81%;
+	background: white url(background_dessin.jpg) no-repeat 100% 81%;
 	color: #575F7D;
 	font-family: cambria math
 	font-size: 16px
@@ -42,7 +42,7 @@ a:hover {
 
 /*custom design with class (99% of your design)*/
 .banner{
-	background-image:url(images/banner_rose.jpg);
+	background-image:url(banner_rose.jpg);
 	color: white; 
 	padding: 100px 50px;
 	text-align: left;
